@@ -1,4 +1,4 @@
-# DO-Media-Assessment-
+# DO-Media-
 
 A lightweight, pixel-perfect HTML/CSS/JavaScript implementation of the DO Media landing page design.
 
